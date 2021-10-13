@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **liharsw@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://portfolio.lihar.id)
+- 📄 Know about my work & experiences [My Resume](https://lihar.id/porfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
