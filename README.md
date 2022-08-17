@@ -1,25 +1,46 @@
 <h1 align="center">Hi 👋, I'm Lihar Sendhi Wijaya</h1>
-<h3 align="center">Hello, I'm a Software Engineer at PAPITUPI Syariah</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liharsw&label=Profile%20views&color=0e75b6&style=flat" alt="liharsw" /> </p>
+## Little bit about me
 
-<p align="left"> <a href="https://twitter.com/liharsw" target="blank"><img src="https://img.shields.io/twitter/follow/liharsw?logo=twitter&style=for-the-badge" alt="liharsw" /></a> </p>
+The name is Lihar/Sendhi, I live in Jakarta since 2013, i love to learn a new things. 
 
-- 🌱 I’m currently learning about **Kafka and Golang**
 
-- 👨‍💻 All about me is at [My Website](https://lihar.id/)
+### 🔌 Let's Connect
+[![Linkedin Badge](https://img.shields.io/badge/-liharsw-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liharsw/)](https://www.linkedin.com/in/liharsw/)
+[![Gmail Badge](https://img.shields.io/badge/-liharsw@gmail.com-dd4b39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liharsw@gmail.com)](mailto:liharsw@gmail.com)
 
-- 💬 Ask me about **PHP Laravel, Javascript, Python, VueJS, React Native, Docker**
+### ⚡ Languages
+![Go](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Go&logo=go)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=JavaScript&logo=javascript)
+![Nodejs](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Node.JS&logo=node.js)
+![PHP](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=PHP&logo=php)
+![HTML5](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=HTML5&logo=html5)
+![CSS3](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CSS3&logo=css3)
 
-- 📫 How to reach me **liharsw@gmail.com**
+### ⚒️ Framework
+![Vue](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Vue&logo=vue.js)
+![React](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=React&logo=react)
+![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Tailwind+CSS&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Bootstrap&logo=bootstrap)
+![Nuxt JS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Nuxt+JS&logo=nuxt.js)
+![Next](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Next&logo=next.js)
+![Laravel](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Laravel&logo=laravel)
 
-- 📄 Know about my work & experiences [My Resume](https://lihar.id/porfolio)
+### 📚 Database
+![PostgreSQL](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=PostgreSQL&logo=postgresql)
+![MySQL](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=MySQL&logo=mysql)
+![Redis](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Redis&logo=redis)
+![SQL Server](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=SQL+Server&logo=microsoft-sql-server)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/liharsw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="liharsw" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lihar-sendhi-wijaya-31867b215/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="liharsw" height="30" width="40" /></a>
-</p>
+### ☁️ Cloud Provider
+![Google Cloud](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Google+Cloud&logo=googlecloud)
+![Firebase](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Firebase&logo=firebase)
 
-<h3 align="left">Languages and Tools I've Used:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### ⚙️ Other Tools
+![Docker](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Docker&logo=docker)
+![GitHub](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=GitHub&logo=github)
+![Gitlab](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Gitlab&logo=gitlab)
+
+### 📈 Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liharsw&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liharsw&hide=html&layout=compact&langs_count=8&theme=dark)
