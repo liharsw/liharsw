@@ -14,6 +14,7 @@ The name is Lihar/Sendhi, I live in Jakarta since 2013, i love to learn a new th
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=JavaScript&logo=javascript)
 ![Nodejs](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Node.JS&logo=node.js)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=PHP&logo=php)
+![Python](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Python&logo=python)
 ![HTML5](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=HTML5&logo=html5)
 ![CSS3](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CSS3&logo=css3)
 
