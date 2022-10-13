@@ -44,4 +44,3 @@ The name is Lihar/Sendhi, I live in Jakarta since 2013, i love to learn a new th
 
 ### 📈 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=liharsw&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liharsw&hide=html&layout=compact&langs_count=8&theme=dark)
