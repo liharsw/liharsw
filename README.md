@@ -41,6 +41,3 @@ The name is Lihar/Sendhi, I live in Jakarta since 2013, i love to learn a new th
 ![Docker](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Docker&logo=docker)
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=GitHub&logo=github)
 ![Gitlab](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Gitlab&logo=gitlab)
-
-### 📈 Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=liharsw&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
