@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lihar Sendhi Wijaya</h1>
+<h1 align="center">Hello World!</h1>
 
 ## Little bit about me
 
