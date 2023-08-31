@@ -1,9 +1,6 @@
 <h1 align="center">Hello World!</h1>
 
-## Little bit about me
-
-The name is Lihar/Sendhi, I live in Jakarta since 2013, i love to learn a new things. 
-
+The name is Lihar/Sendhi, I live in Jakarta since 2013, i love to learn a new things
 
 ### 🔌 Let's Connect
 [![Linkedin Badge](https://img.shields.io/badge/-liharsw-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liharsw/)](https://www.linkedin.com/in/liharsw/)
