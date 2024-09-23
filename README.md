@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!</h1>
 
-The name is Lihar/Sendhi, I live in Jakarta since 2013, i love to learn a new things!!!
+Hi my name is Lihar. But you can call me Sendhi. I am software developer. sometimes do infrastructure
 ### 🔌 Let's Connect
 [![Linkedin Badge](https://img.shields.io/badge/-liharsw-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liharsw/)](https://www.linkedin.com/in/liharsw/)
 [![Gmail Badge](https://img.shields.io/badge/-liharsw@gmail.com-dd4b39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liharsw@gmail.com)](mailto:liharsw@gmail.com)
@@ -13,6 +13,7 @@ The name is Lihar/Sendhi, I live in Jakarta since 2013, i love to learn a new th
 ![Python](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Python&logo=python)
 ![HTML5](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=HTML5&logo=html5)
 ![CSS3](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CSS3&logo=css3)
+![Rust](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Rust&logo=rust)
 
 ### ⚒️ Framework
 ![Vue](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Vue&logo=vue.js)
